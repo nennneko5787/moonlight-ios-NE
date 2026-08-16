@@ -58,7 +58,7 @@ Check out [the Moonlight wiki](https://github.com/moonlight-stream/moonlight-doc
 3. Enjoy!
 
 ## 安装指南
-1. 从[Github Actions](https://github.com/TimmyOVO/moonlight-ios-NE/actions)下载IPA文件.
+1. 从[Github Actions](https://github.com/nennneko5787/moonlight-ios-NE/actions)下载IPA文件.
 2. 使用AltStore或TrollStore等软件对IPA文件进行签名并安装。
 3. 享受吧！
 
