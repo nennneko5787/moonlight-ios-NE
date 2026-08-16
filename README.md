@@ -17,6 +17,7 @@ Changes:
   * Two-finger swipes down to close the keyboard.
   * Two-finger swipes left to switch to previous monitor.
   * Two-finger swipes right to switch to next monitor.
+* Game mode support
 
 **Monitor switching functionality are very primitive cause in order to improve it, we need to monitor listing and lookup somekind of API which is not available yet in Sunshine protocol.**
 
@@ -39,6 +40,7 @@ Changes:
   * 两指向下滑动关闭键盘。
   * 两指向左滑动切换到上一个屏幕。
   * 两指向右滑动切换到下一个屏幕。
+* Game mode support
 
 [Moonlight for iOS/tvOS](https://moonlight-stream.org) is an open source client for [Sunshine](https://github.com/LizardByte/Sunshine) and NVIDIA GameStream. Moonlight for iOS/tvOS allows you to stream your full collection of games and apps from your powerful desktop computer to your iOS device or Apple TV.
 
