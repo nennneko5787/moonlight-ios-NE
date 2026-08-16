@@ -9,6 +9,8 @@
 #ifndef Limelight_mkcert_h
 #define Limelight_mkcert_h
 
+#include <sys/_types/_time_t.h>
+
 #include <openssl/x509v3.h>
 #include <openssl/pkcs12.h>
 
